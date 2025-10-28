@@ -1,17 +1,9 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png"
-group-title="deportes",TNT Sport
-https://ujfc.envivotv.live/tntsports/tracks-v1a1/mono.m3u8
-
+group-title="deportes",TNT Sporthttps://ujfc.envivotv.live/tntsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/250px-ESPN_Premium_logo.svg.png"
-group-title="deportes",ESPN Premium
-https://ujfc.envivotv.live/espnpremium/tracks-v1a1/mono.m3u8
-
+group-title="deportes",ESPN Premiumhttps://ujfc.envivotv.live/espnpremium/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/330px-DSports.png"
-group-title="deportes",DSports
-https://tzmd.envivotv.live/dsports/tracks-v1a1/mono.m3u8
-
+group-title="deportes",DSportshttps://tzmd.envivotv.live/dsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1024px-TyC_Sports_logo.svg.png"
-group-title="deportes",TyC Sports
-https://ujfc.envivotv.live/tycsports/tracks-v1a1/mono.m3u8
+group-title="deportes",TyC Sportshttps://ujfc.envivotv.live/tycsports/tracks-v1a1/mono.m3u8
